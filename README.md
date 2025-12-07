@@ -42,6 +42,10 @@ The framework consists of three synergistic components:
 
 ### 1. Installation
 ```bash
-git clone [https://github.com/YourUsername/DTTC-Reasoning.git](https://github.com/YourUsername/DTTC-Reasoning.git)
+git clone [https://github.com/lyj20071013/DTTC-Reasoning.git](https://github.com/lyj20071013/DTTC-Reasoning.git)
 cd DTTC-Reasoning
 pip install -r requirements.txt
+```
+
+2. Configuration
+Open src/inference.py and configure your model path:
