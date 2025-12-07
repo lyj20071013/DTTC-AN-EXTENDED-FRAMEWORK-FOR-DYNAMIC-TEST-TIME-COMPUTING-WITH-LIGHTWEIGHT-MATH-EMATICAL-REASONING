@@ -11,7 +11,7 @@ This repository contains the official implementation and technical report for **
 
 DTTC is a lightweight framework designed to enhance the reasoning capabilities of small language models (SLMs). By introducing a **Dynamic Parameter Pool (DPP)**, **Ambiguity Statement Mapping (ASM)**, and **Time-enhanced Penalty Decoding (TPD)**, we significantly bridge the gap between 1.5B models and larger state-of-the-art LLMs.
 
-[**📄 Read the Technical Report (PDF)**](assets/DTTC_Technical_Report.pdf)
+[**📄 Read the Technical Report (PDF)**](DTTC.pdf)
 
 ## 🚀 Key Results
 
